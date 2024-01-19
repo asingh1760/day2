@@ -1,0 +1,16 @@
+.profile{
+    width:700px;
+    margin:auto;
+    position: relative;
+}
+.cover{
+    width:100%
+}
+.user{
+    height:100px;
+    position:absolute;
+left:300px;
+bottom:-40px;
+border-radius: 50%;
+border:5px solid white;
+}
