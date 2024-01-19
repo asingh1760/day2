@@ -1,0 +1,27 @@
+.box{
+  width: 800px;
+  height: 400px;
+  color: white;
+  margin:60px auto;
+  position:relative;
+}
+.img-blk{
+    width:100%;
+    height:100%;
+    border-radius: 16px;
+}
+.search{
+    position:absolute;
+    bottom:150px;
+    width:400px;
+    left:200px;
+    border-radius: 16px;
+}
+.cont{
+    position:absolute;
+    bottom:200px;
+    padding-left:250px ;
+}
+.center{
+    text-align: center;
+}
